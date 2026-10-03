@@ -1,0 +1,18 @@
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python -m venv .venv
+.venv\Scripts\activate # Windows PowerShell (macOS/Linux: source .venv/bin/activate)
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python -m ipykernel install --user --name itri625 --display-name "ITRI625"
+pip freeze > requirements-lock.txt # exact versions, for reproducibility

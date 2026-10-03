@@ -1,1 +1,9 @@
 # CybersecurityThreatClassifier
+.venv/
+data/raw/*
+!data/raw/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
