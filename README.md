@@ -81,4 +81,4 @@ Single dataset and no time-based split (concept drift untested); several classes
 
 ## References and licence
 
-Dataset: Ramoliya, F., *Cyber Threat Dataset: Network, Text & Relation*, Kaggle (check the licence on the dataset page before redistributing any data). Full academic references are in the project report.
+Dataset: Ramoliya, F., *Cyber Threat Dataset: Network, Text & Relation*, Kaggle (check the licence on the dataset page before redistributing any data).
